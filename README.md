@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vanyavasylyshyn
-- 👀 I’m interested in writing code, dancing, hiking
+- 👀 I’m interested in writing code, hiking
 - 🌱 I’m currently learning how to live
 - 💞️ I’m looking to collaborate on special projects
 
