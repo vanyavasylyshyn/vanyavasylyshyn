@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing code, hiking
 - 🌱 I’m currently learning how to live
 
-My main focus is web, blockchain(web3), embaded, and game development.
+My main focus is web, blockchain(web3), linux(embaded), and game development.
 
 <!---
 vanyavasylyshyn/vanyavasylyshyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
