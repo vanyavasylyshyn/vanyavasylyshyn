@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @vanyavasylyshyn
+# Hi, I'm Ivan Vasylyshyn 👋
+
+[![Codewars](https://www.codewars.com/users/vanyavasylyshyn/badges/micro)](https://www.codewars.com/users/vanyavasylyshyn)
+
 - 👀 I’m interested in writing code, hiking
 - 🌱 I’m currently learning how to live
 
